@@ -45,7 +45,7 @@ export default function ArticlesIndex({ articles }) {
         />
       </Head>
       <SimpleLayout
-        title="Writing on video game design, development, and everyhing I find interesting."
+        title="Writing on video game design, development, and everything I find interesting."
         intro="All of my long-form thoughts on my journey to create my own games, collected in chronological order."
       >
         <div className="md:border-l md:border-zinc-100 md:pl-6 md:dark:border-zinc-700/40">
