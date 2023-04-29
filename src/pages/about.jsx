@@ -76,7 +76,7 @@ export default function About() {
                 into other languages personally just to see what is out there and popular.
               </p>
               <p>
-                My goal with this blog is to document my process of goign through this
+                My goal with this blog is to document my process of goinn through this
                 journey, learning how to use Unity and Unreal. As well as learning how
                 to design a game that is fun and engaging.
               </p>
