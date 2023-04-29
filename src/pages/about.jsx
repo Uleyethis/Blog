@@ -68,7 +68,7 @@ export default function About() {
               <p>
                 As with many of you, I grew up playing video games and soon had aspirations
                 of making my own.
-              </p>              
+              </p> 
               <p>
                 I have always been a developer at heart, starting as young as elementary school
                 playing around with making my own webpages. I really started programming
